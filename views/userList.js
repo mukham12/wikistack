@@ -11,4 +11,4 @@ module.exports = (users) => layout(html`
       </li>`)}
     </ul>
   </ul>
-`);
+`)
